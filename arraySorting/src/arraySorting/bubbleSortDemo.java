@@ -3,7 +3,7 @@ package arraySorting;
 import java.util.Arrays;
 
 public class bubbleSortDemo {
-	static int[] a = {5,4,9,7,3,4,1,0,8};
+	static int[] a = {5,4,9,7,3,4,1,0,8,2};
 
 	public static void main(String[] args) {
 		bubbleSort(a);
